@@ -3,6 +3,7 @@ title: Projects
 layout: landing
 description: 'Practice makes perfect'
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

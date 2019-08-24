@@ -1,6 +1,6 @@
 <section id="one" class="tiles">
-  {% for post in site.posts limit:site.tiles-count %}
-  {% if site.tiles-source == 'posts' %}
+  {% for post in site.posts %}
+  {% if site.tiles-source == 'posts' and page.show_tile == true %}
   <article>
     <span class="image" id="posts">
       <img src="{{ post.image }}" alt="" />
@@ -12,9 +12,9 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
-  <div id = "{{ page.title }}"></div>
-  {% if site.tiles-source == 'pages' and page.show_tile != false %}
+  <!-- if -->
+  {% for page in site.pages %}
+  {% if site.tiles-source == 'pages' and page.show_tile == true %}
   <article>
     <span class="image" id="pages">
       <img src="{{ page.image }}" alt="" />
