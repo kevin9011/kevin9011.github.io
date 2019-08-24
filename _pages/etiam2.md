@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Etiam2
 description: Feugiat amet tempus
 image: assets/images/pic06.jpg
