@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Etiam3
+title: Etiam2
 description: Feugiat amet tempus
 image: assets/images/pic06.jpg
-permalink: /Blogs/estiam3.html
+permalink: /Blogs/estiam2.html
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
