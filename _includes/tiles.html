@@ -13,6 +13,7 @@
   {% endif %}
   {% endfor %}
   {% for page in site.pages limit:site.tiles-count %}
+  <div id = "{{ page.title }}"></div>
   {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
     <span class="image" id="pages">
