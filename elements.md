@@ -3,6 +3,7 @@ layout: page
 title: Elements
 description: Testing
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
