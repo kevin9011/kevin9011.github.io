@@ -88,7 +88,15 @@ show_tile: true
 			         <li>Small Area Estimation and its application using R</li>
 			         <li>Vending Machine Simulation Design and Analysis using Java</li>
 		         </ol>
-            </div>            
+            </div>
+            <hr/>
+            <div>
+                <h2>Skill Sets</h2>
+            </div>
+            <div>
+                <p>Computing Skills: SQL \ Java \ Python \ R \ Tableau</p>
+                <p>Analysis Skills: Statistical Learning \ Machine Learning</p>                
+            </div>                      
         </div>        
     </section>
 </div>        
