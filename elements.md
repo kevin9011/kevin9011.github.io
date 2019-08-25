@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 description: Testing
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
