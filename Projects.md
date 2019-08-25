@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'Practice makes perfect'
+description: 'NOTHING WILL WORK UNLESS YOU DO'
 nav-menu: true
 show_tile: true
 ---

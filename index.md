@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Xiqian Chen'
+landing-title: 'Welcome to the journey of XC'
 description: null
 image: null
 author: null

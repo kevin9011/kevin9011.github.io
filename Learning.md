@@ -1,7 +1,7 @@
 ---
 title: Learning
 layout: landing
-description: 'Never stop learning'
+description: 'CHANGE IS THE END RESULT OF ALL TRUE LEARNING'
 nav-menu: true
 show_tile: true
 ---
