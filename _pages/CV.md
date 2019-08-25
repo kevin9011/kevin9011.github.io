@@ -117,10 +117,20 @@ show_tile: true
             <div>
                 <h2>Skill Sets</h2>
             </div>
-            <div>
-                <p>Computing Skills: SQL \ Java \ Python \ R \ Tableau</p>
-                <p>Analysis Skills: Statistical Learning \ Machine Learning</p>                
-            </div>                      
+            <div class="row">   
+                <div class="6u 12u$(small)">
+                    <h3>Computing Skills</h3>   
+                    <p>
+                    SQL \ Java \ Python \ R \ Tableau
+                    </p>
+                </div>
+               <div class="6u$ 12u$(small)">
+                    <h3>Analysis Skills</h3>                   
+                    <p>
+                    Statistical Learning \ Machine Learning \ Deep Learning                 
+                    </p>
+               </div>                               
+            </div>                    
         </div>        
     </section>
 </div>        
