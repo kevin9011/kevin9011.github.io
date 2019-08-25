@@ -91,6 +91,30 @@ show_tile: true
             </div>
             <hr/>
             <div>
+                <h2>Learning</h2>
+            </div>
+            <div class="row">   
+                <div class="4u 12u$(small)">    
+                    <p>
+                    Introduction to Java<br/>
+                    Data Structure
+                    </p>
+                </div>
+        	    <div class="4u 12u$(small)">
+                    <p>
+                    Statistical Learning<br/>
+                    Machine Learning
+                    </p>
+               </div> 
+               <div class="4u$ 12u$(small)">    
+                    <p>
+                    Data Modeling<br/>
+                    Machine Learning                   
+                    </p>
+               </div>                               
+            </div>           
+            <hr/>
+            <div>
                 <h2>Skill Sets</h2>
             </div>
             <div>
