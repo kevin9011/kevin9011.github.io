@@ -51,7 +51,7 @@ show_tile: true
             <div>
                <ol>
 			        <li>Design and develop ETL Framework on SQL Server</li>
-			        <li>Built store procedures and process frameworks to make daily process easier<li>
+			        <li>Built store procedures and process frameworks to make daily process easier</li>
 			        <li>Process, maintain and analysis TBs of data from clients and data vendors</li>
                     <li>Translate business rules into SQL and develop campaign process for different clients</li>
                     <li>Design SSRS reports for data analysis, campaign match back result and market forecasting</li>
