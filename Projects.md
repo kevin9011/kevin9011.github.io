@@ -15,24 +15,24 @@ show_tile: true
 		<header class="major">
 			<h2>Description</h2>
 		</header>
-		<p>In order to enhance my career path, I have done several projects by myself after work. They are interesting and fun which teach me a lot and help me build up my career as a data engineer\data analyst specialist. </p>
+		<p>In order to enhance my career path, I have done several projects. They are interesting and fun which teach me a lot and help me build up my career as a data engineer\data analyst specialist. </p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="_pages/etiam2.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="_projects/Create_Github_Page_with_Jekyll.html" class="image">
+			<img src="assets/images/github_jekyll.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>etiam2</h3>
+					<h3>Create Github Page with Jekyll</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="_pages/etiam2.html" class="button">Learn more</a></li>
+					<li><a href="_projects/Create_Github_Page_with_Jekyll.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
