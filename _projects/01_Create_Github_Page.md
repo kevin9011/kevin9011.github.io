@@ -18,8 +18,11 @@ permalink: _projects/Create_Github_Page_with_Jekyll.html
             Github page is service provided by Github which allow user to directly host website on the repository. It is easy to set up and edit which is good for static website. In order to make the github page look prettier, I also choose use Jekyll to develop the page. Github page fully support Jekyll package. It is very easy to use. In this page, I will explain the way of creating current github page.
             </p>
             <h2>Setup</h2>
-            <p>
-            Create a github account and get familiar with github
+            <h3>Create a github account and get familiar with github</h3>
+            <p><a href="https://guides.github.com/activities/hello-world/">
+            Github Guide
+            </a>
+            </p>
             <br/>
             Folk the repository andrewbanchich/forty-jekyll-theme
             <br/>
