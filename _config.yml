@@ -3,7 +3,7 @@ title: "XC"
 subtitle: For the Future
 email: "xiqian.chen9011@gmail.com"
 description: Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
