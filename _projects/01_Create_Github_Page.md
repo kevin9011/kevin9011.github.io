@@ -30,11 +30,9 @@ permalink: _projects/Create_Github_Page_with_Jekyll.html
             </p>
             <p>
             For using the theme, I first create an empty repository with name "[username].github.io", where [username] is my github user name. Then I clone the theme to local with git bash comment 
-            <pre>
-                <code>
-                ''git clone https://github.com/andrewbanchich/forty-jekyll-theme''
-                </code>
-            </pre>
+            <code>
+            git clone https://github.com/andrewbanchich/forty-jekyll-theme
+            </code>
              For my github page, I rename it to "Blogs".Then I have my starting github page "https://kevin9011.github.io/Blogs/" </p>
             <p>
             If you want to choose other theme, you can use following website to choose one you like
