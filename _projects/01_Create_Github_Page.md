@@ -22,17 +22,23 @@ permalink: _projects/Create_Github_Page_with_Jekyll.html
             <p><a href="https://help.github.com/en/articles/set-up-git">
             Github & Git Guide
             </a>
+            <br/>
+            <a href="https://git-scm.com/docs">
+            Git Documentation
+            </a>
             </p>          
-            <h4>Folk the Github Page Theme Repository</h4>
+            <h4>Create initial Github Page</h4>
             <p>
             The github page theme that I choose to use is the following.<br/>
             <a href="https://github.com/andrewbanchich/forty-jekyll-theme"> Forty Jekyll Themes</a>
             <br/>
+            <br/>            
             For using the theme, I first create an empty repository with name "[username].github.io", where [username] is my github user name (kevin9011). Then I clone the theme to local folder with following git bash comment
             <br/>
             <code>
             git clone https://github.com/andrewbanchich/forty-jekyll-theme
             </code>
+            <br/>
             <br/>
             Then I set the current location to folder "forty-jekyll-theme" and run the git push with mirror option to the empty reposityor that I create above
             <br/>
@@ -42,18 +48,16 @@ permalink: _projects/Create_Github_Page_with_Jekyll.html
             git push --mirror https://github.com/[username]/[username].github.io
             </code>
             <br/>
+            <br/>
             After this point, I have my github repository to host the github page with forty theme. I can now modify the page to make it become my own page.
-            <p>
             If you want to choose other theme, you can use following website to choose one you like
             <br/>
             <a href="https://jekyllthemes.io/">Jekyll Themes</a>
+            </p>
             <h2>Customization</h2>
-            <p>
-            Customize the Home page
-            <br/>
-            Customize the Meanu
-            <br/>
-            Customize the Tiles
+            <h4>Customize the Home page</h4>
+            <h4>Customize the Meanu</h4>
+            <h4>Customize the Tiles</h4>
             </p>           
         </div>
     </section>
