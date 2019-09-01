@@ -27,23 +27,26 @@ permalink: _projects/Create_Github_Page_with_Jekyll.html
             <p>
             The github page theme that I choose to use is the following.<br/>
             <a href="https://github.com/andrewbanchich/forty-jekyll-theme"> Forty Jekyll Themes</a>
-            </p>
-            <p>
-            For using the theme, I first create an empty repository with name "[username].github.io", where [username] is my github user name. Then I clone the theme to local with git bash comment
+            <br/>
+            For using the theme, I first create an empty repository with name "[username].github.io", where [username] is my github user name (kevin9011). Then I clone the theme to local folder with following git bash comment
             <br/>
             <code>
             git clone https://github.com/andrewbanchich/forty-jekyll-theme
             </code>
             <br/>
-             For my github page, I rename it to "Blogs".Then I have my starting github page "https://kevin9011.github.io/Blogs/" </p>
+            Then I set the current location to folder "forty-jekyll-theme" and run the git push with mirror option to the empty reposityor that I create above
+            <br/>
+            <code>
+            cd forty-jekyll-theme
+            <br/>
+            git push --mirror https://github.com/[username]/[username].github.io
+            </code>
+            <br/>
+            After this point, I have my github repository to host the github page with forty theme. I can now modify the page to make it become my own page.
             <p>
             If you want to choose other theme, you can use following website to choose one you like
             <br/>
             <a href="https://jekyllthemes.io/">Jekyll Themes</a>
-            </p>
-            Follow the instruction on the forty jekyll to host the website
-            <br/>
-            </p>
             <h2>Customization</h2>
             <p>
             Customize the Home page
