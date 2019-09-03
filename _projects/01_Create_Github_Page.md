@@ -56,6 +56,14 @@ permalink: _projects/Create_Github_Page_with_Jekyll.html
             </p>
             <h2>Customization</h2>
             <h4>Customize the Home page</h4>
+            <p>
+            The home page is a combinatin of following md and html
+                <div>
+                index.md<br/>
+                home.html<br/>
+                tiles.html<br/>
+                </div>
+            </p>
             <h4>Customize the Meanu</h4>
             <h4>Customize the Tiles</h4>
             </p>           
